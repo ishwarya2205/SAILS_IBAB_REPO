@@ -1,0 +1,2 @@
+word = "ATGCATGC"
+print(word)
