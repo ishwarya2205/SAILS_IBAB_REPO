@@ -1,4 +1,3 @@
-def transcribe_dna_to_rna():
+def transcribe_dna_to_rna(dna_string):
 	rna_string=dna_string.replace('t','u')
-	return rna_string
 	print(rna_string)
