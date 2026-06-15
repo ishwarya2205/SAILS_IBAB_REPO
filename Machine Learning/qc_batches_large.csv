@@ -1,0 +1,81 @@
+Batch ID,Date,Product Name,Dosage Form,Test Parameter,Test Outcome,Analyst,Lab Section,Date Reviewed,Status
+QC-101,2024-01-09,Ibuprofen 400mg,Tablet,Uniformity of Weight,Pass,Deepak R,Physical Lab,2024-01-11,Reviewed
+QC-102,2024-01-10,Amoxicillin 250mg,Capsule,Moisture Content,Pass,Sneha V,Chemical Lab,2024-01-12,Reviewed
+QC-103,2024-01-12,Azithromycin 500mg,Tablet,Hardness,Pass,Rahul M,Physical Lab,2024-01-12,Reviewed
+QC-104,2024-01-14,Omeprazole 20mg,Capsule,Assay,Fail,Sneha V,Chemical Lab,2024-01-16,Reviewed
+QC-105,2024-01-16,Amoxicillin 250mg,Capsule,Uniformity of Weight,Fail,Priya S,Physical Lab,2024-01-17,Reviewed
+QC-106,2024-01-17,Paracetamol 500mg,Tablet,Disintegration,Pass,Priya S,Dissolution Lab,2024-01-19,Reviewed
+QC-107,2024-01-20,Amoxicillin 250mg,Capsule,Moisture Content,Fail,Priya S,Chemical Lab,2024-01-22,Reviewed
+QC-108,2024-01-21,Ibuprofen 400mg,Tablet,pH,OOS,Rahul M,Chemical Lab,2024-01-26,Reviewed
+QC-109,2024-01-21,Paracetamol 500mg,Tablet,Microbial Limit,Pass,Priya S,Microbiology Lab,2024-01-23,Reviewed
+QC-110,2024-01-22,Atorvastatin 10mg,Tablet,Dissolution,Pass,Sneha V,Dissolution Lab,2024-01-22,Reviewed
+QC-111,2024-01-23,Amoxicillin 250mg,Capsule,Microbial Limit,Pass,Sneha V,Microbiology Lab,2024-01-24,Reviewed
+QC-112,2024-01-26,Paracetamol 500mg,Tablet,Dissolution,Pass,Rahul M,Dissolution Lab,2024-01-27,Reviewed
+QC-113,2024-01-26,Ibuprofen 400mg,Tablet,Hardness,Fail,Deepak R,Physical Lab,2024-01-29,Reviewed
+QC-114,2024-01-27,Azithromycin 500mg,Tablet,Disintegration,OOS,Anita K,Dissolution Lab,2024-01-29,Reviewed
+QC-115,2024-01-27,Amoxicillin 250mg,Capsule,Uniformity of Weight,Fail,Deepak R,Physical Lab,2024-01-30,Reviewed
+QC-116,2024-01-30,Ibuprofen 400mg,Tablet,Moisture Content,Pass,Sneha V,Chemical Lab,2024-01-31,Reviewed
+QC-117,2024-01-30,Omeprazole 20mg,Capsule,Assay,Fail,Rahul M,Chemical Lab,2024-02-01,Reviewed
+QC-118,2024-01-30,Omeprazole 20mg,Capsule,Disintegration,Pass,Deepak R,Dissolution Lab,2024-02-01,Reviewed
+QC-119,2024-02-01,Amoxicillin 250mg,Capsule,Hardness,Fail,Anita K,Physical Lab,2024-02-03,Reviewed
+QC-120,2024-02-01,Cetirizine 10mg,Tablet,Hardness,Fail,Anita K,Physical Lab,2024-02-02,Reviewed
+QC-121,2024-02-04,Atorvastatin 10mg,Tablet,Hardness,Pass,Sneha V,Physical Lab,2024-02-06,Reviewed
+QC-122,2024-02-05,Atorvastatin 10mg,Tablet,Moisture Content,Pass,Deepak R,Chemical Lab,2024-02-06,Reviewed
+QC-123,2024-02-07,Amoxicillin 250mg,Capsule,Dissolution,OOS,Deepak R,Dissolution Lab,2024-02-09,Reviewed
+QC-124,2024-02-07,Ibuprofen 400mg,Tablet,pH,OOS,Deepak R,Chemical Lab,2024-02-12,Reviewed
+QC-125,2024-02-07,Omeprazole 20mg,Capsule,Hardness,Pass,Deepak R,Physical Lab,2024-02-08,Reviewed
+QC-126,2024-02-11,Ibuprofen 400mg,Tablet,Disintegration,Pass,Priya S,Dissolution Lab,2024-02-12,Reviewed
+QC-127,2024-02-11,Ibuprofen 400mg,Tablet,Hardness,Pass,Deepak R,Physical Lab,2024-02-11,Reviewed
+QC-128,2024-02-13,Atorvastatin 10mg,Tablet,Uniformity of Weight,Pass,Sneha V,Physical Lab,2024-02-14,Reviewed
+QC-129,2024-02-17,Azithromycin 500mg,Tablet,Uniformity of Weight,Pass,Anita K,Physical Lab,2024-02-18,Reviewed
+QC-130,2024-02-22,Metformin 500mg,Tablet,Assay,Pass,Rahul M,Chemical Lab,2024-02-23,Reviewed
+QC-131,2024-02-26,Atorvastatin 10mg,Tablet,Uniformity of Weight,Pass,Rahul M,Physical Lab,2024-02-27,Reviewed
+QC-132,2024-02-26,Omeprazole 20mg,Capsule,Assay,Pass,Deepak R,Chemical Lab,2024-02-26,Reviewed
+QC-133,2024-02-26,Cetirizine 10mg,Tablet,Hardness,Pass,Priya S,Physical Lab,2024-02-27,Reviewed
+QC-134,2024-03-10,Omeprazole 20mg,Capsule,Hardness,Pass,Deepak R,Physical Lab,2024-03-11,Reviewed
+QC-135,2024-03-14,Paracetamol 500mg,Tablet,Hardness,Pass,Anita K,Physical Lab,2024-03-15,Reviewed
+QC-136,2024-03-14,Azithromycin 500mg,Tablet,Uniformity of Weight,Fail,Anita K,Physical Lab,2024-03-15,Reviewed
+QC-137,2024-03-17,Amoxicillin 250mg,Capsule,Moisture Content,Pass,Deepak R,Chemical Lab,2024-03-18,Reviewed
+QC-138,2024-03-21,Azithromycin 500mg,Tablet,Assay,Pass,Rahul M,Chemical Lab,2024-03-22,Reviewed
+QC-139,2024-03-26,Omeprazole 20mg,Capsule,pH,Fail,Rahul M,Chemical Lab,2024-03-28,Reviewed
+QC-140,2024-03-28,Metformin 500mg,Tablet,pH,Pass,Deepak R,Chemical Lab,2024-03-30,Reviewed
+QC-141,2024-03-29,Paracetamol 500mg,Tablet,Moisture Content,Pass,Priya S,Chemical Lab,2024-03-29,Reviewed
+QC-142,2024-03-30,Ibuprofen 400mg,Tablet,pH,OOS,Deepak R,Chemical Lab,2024-04-02,Reviewed
+QC-143,2024-04-04,Cetirizine 10mg,Tablet,Moisture Content,Pass,Rahul M,Chemical Lab,2024-04-06,Reviewed
+QC-144,2024-04-05,Omeprazole 20mg,Capsule,Dissolution,Pass,Sneha V,Dissolution Lab,2024-04-06,Reviewed
+QC-145,2024-04-06,Cetirizine 10mg,Tablet,Hardness,Pass,Sneha V,Physical Lab,2024-04-07,Reviewed
+QC-146,2024-04-11,Cetirizine 10mg,Tablet,Microbial Limit,Pass,Deepak R,Microbiology Lab,2024-04-13,Reviewed
+QC-147,2024-04-14,Cetirizine 10mg,Tablet,Dissolution,Pass,Sneha V,Dissolution Lab,2024-04-15,Reviewed
+QC-148,2024-04-14,Azithromycin 500mg,Tablet,Moisture Content,Pass,Sneha V,Chemical Lab,2024-04-15,Reviewed
+QC-149,2024-04-15,Paracetamol 500mg,Tablet,pH,Pass,Rahul M,Chemical Lab,2024-04-16,Reviewed
+QC-150,2024-04-19,Omeprazole 20mg,Capsule,Hardness,OOS,Sneha V,Physical Lab,2024-04-22,Reviewed
+QC-151,2024-04-20,Ibuprofen 400mg,Tablet,Moisture Content,Pass,Deepak R,Chemical Lab,2024-04-21,Reviewed
+QC-152,2024-04-21,Paracetamol 500mg,Tablet,Dissolution,Pass,Rahul M,Dissolution Lab,2024-04-23,Reviewed
+QC-153,2024-04-24,Atorvastatin 10mg,Tablet,Dissolution,Pass,Rahul M,Dissolution Lab,2024-04-24,Reviewed
+QC-154,2024-04-28,Azithromycin 500mg,Tablet,Hardness,Pass,Anita K,Physical Lab,2024-04-29,Reviewed
+QC-155,2024-04-28,Paracetamol 500mg,Tablet,pH,Fail,Rahul M,Chemical Lab,2024-04-29,Reviewed
+QC-156,2024-04-29,Amoxicillin 250mg,Capsule,Uniformity of Weight,Pass,Sneha V,Physical Lab,2024-04-30,Reviewed
+QC-157,2024-04-29,Azithromycin 500mg,Tablet,pH,Pass,Rahul M,Chemical Lab,2024-04-29,Reviewed
+QC-158,2024-05-01,Paracetamol 500mg,Tablet,Dissolution,Pass,Deepak R,Dissolution Lab,2024-05-02,Reviewed
+QC-159,2024-05-04,Metformin 500mg,Tablet,Assay,Fail,Priya S,Chemical Lab,2024-05-06,Reviewed
+QC-160,2024-05-12,Amoxicillin 250mg,Capsule,Uniformity of Weight,OOS,Rahul M,Physical Lab,2024-05-15,Reviewed
+QC-161,2024-05-12,Atorvastatin 10mg,Tablet,Hardness,Pass,Anita K,Physical Lab,2024-05-14,Reviewed
+QC-162,2024-05-15,Azithromycin 500mg,Tablet,pH,Pass,Anita K,Chemical Lab,2024-05-16,Reviewed
+QC-163,2024-05-17,Cetirizine 10mg,Tablet,Assay,Pass,Sneha V,Chemical Lab,2024-05-18,Reviewed
+QC-164,2024-05-20,Paracetamol 500mg,Tablet,Disintegration,Pass,Priya S,Dissolution Lab,2024-05-20,Reviewed
+QC-165,2024-05-30,Paracetamol 500mg,Tablet,Dissolution,Pass,Sneha V,Dissolution Lab,2024-06-01,Reviewed
+QC-166,2024-05-30,Azithromycin 500mg,Tablet,Microbial Limit,Pass,Deepak R,Microbiology Lab,2024-05-31,Reviewed
+QC-167,2024-06-03,Amoxicillin 250mg,Capsule,Uniformity of Weight,Fail,Sneha V,Physical Lab,2024-06-06,Reviewed
+QC-168,2024-06-07,Paracetamol 500mg,Tablet,pH,Pass,Rahul M,Chemical Lab,2024-06-08,Reviewed
+QC-169,2024-06-11,Azithromycin 500mg,Tablet,Moisture Content,Pass,Priya S,Chemical Lab,2024-06-12,Reviewed
+QC-170,2024-06-11,Cetirizine 10mg,Tablet,Moisture Content,Pass,Anita K,Chemical Lab,2024-06-12,Reviewed
+QC-171,2024-06-12,Paracetamol 500mg,Tablet,Moisture Content,Pass,Priya S,Chemical Lab,2024-06-13,Reviewed
+QC-172,2024-06-14,Amoxicillin 250mg,Capsule,Assay,Fail,Rahul M,Chemical Lab,2024-06-16,Reviewed
+QC-173,2024-06-15,Azithromycin 500mg,Tablet,Dissolution,Pass,Deepak R,Dissolution Lab,2024-06-16,Reviewed
+QC-174,2024-06-19,Ibuprofen 400mg,Tablet,Uniformity of Weight,Fail,Anita K,Physical Lab,2024-06-20,Reviewed
+QC-175,2024-06-20,Atorvastatin 10mg,Tablet,Hardness,Pass,Anita K,Physical Lab,2024-06-21,Reviewed
+QC-176,2024-06-20,Amoxicillin 250mg,Capsule,pH,OOS,Anita K,Chemical Lab,2024-06-24,Reviewed
+QC-177,2024-06-20,Azithromycin 500mg,Tablet,Dissolution,Pass,Anita K,Dissolution Lab,2024-06-21,Reviewed
+QC-178,2024-06-21,Amoxicillin 250mg,Capsule,Disintegration,OOS,Deepak R,Dissolution Lab,2024-06-26,Reviewed
+QC-179,2024-06-22,Cetirizine 10mg,Tablet,Dissolution,Fail,Rahul M,Dissolution Lab,2024-06-24,Reviewed
+QC-180,2024-06-26,Azithromycin 500mg,Tablet,Assay,Pass,Priya S,Chemical Lab,2024-06-27,Reviewed
