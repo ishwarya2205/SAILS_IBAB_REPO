@@ -1,2 +1,0 @@
-word = "ATGCATGC"
-print(word)
